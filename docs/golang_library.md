@@ -1,6 +1,6 @@
 # Golang好用的库
 
-## Goxc## 
+## Goxc
 
 [https://github.com/laher/goxc](https://github.com/laher/goxc) 
 
@@ -8,97 +8,95 @@
 
 [https://mozillazg.com/2015/02/go-use-goxc-to-cross-compile.html](https://mozillazg.com/2015/02/go-use-goxc-to-cross-compile.html)
 
-## Simple-json## 
+## Simple-json
 
 [https://github.com/bitly/go-simplejson](https://github.com/bitly/go-simplejson)
 
 json解析库
 
-## Cobra## 
+## Cobra
 
 [https://github.com/spf13/cobra](https://github.com/spf13/cobra)
 
 命令行工具代码生成器
 
-## Viper## 
+## Viper
 
 [https://github.com/spf13/viper](https://github.com/spf13/viper)
 
 配置文件读取库，支持json、toml、yaml、java property config等
 
-## Mux## 
+## Mux
 
 [https://github.com/gorilla/mux](https://github.com/gorilla/mux)
 
 强大的URL路由和dispatcher
 
-## Set## 
+## Set
 
 [https://github.com/fatih/set](https://github.com/fatih/set)
 
 Golang的set数据结构，补足golang原生数据结构的不足
 
-## Grumpy## 
+## Grumpy
 
 [https://github.com/google/grumpy](https://github.com/google/grumpy)
 
 将python转换为go语言运行时
 
-## Godep## 
+## Godep
 
 [https://github.com/tools/godep](https://github.com/tools/godep)
 
 go语言依赖解析工具
 
-## Hugo## 
+## Hugo
 
 [https://github.com/spf13/hugo](https://github.com/spf13/hugo)
 
 静态网站生成器
 
-## go-dockerclient## 
+## go-dockerclient
 
 [https://github.com/fsouza/go-dockerclient](https://github.com/fsouza/go-dockerclient)
 
 支持docker1.11版本的docker客户端，比docker原生客户端包好用
 
-## Burrow## 
+## Burrow
 
 [https://github.com/linkedin/Burrow](https://github.com/linkedin/Burrow)
 
 kafka消费者滞后检查
 
-## Advanced-ssh-config## 
+## Advanced-ssh-config
 
 [https://github.com/moul/advanced-ssh-config](https://github.com/moul/advanced-ssh-config)
 
 高级SSH工具
 
-## Logrus## 
+## Logrus
 
 [https://github.com/Sirupsen/logrus](https://github.com/Sirupsen/logrus)
 
 日志工具
 
-## Nomad## 
-
-这不是一个Golang的库，这是一个基于go语言开发的容器编排工具
+## Nomad
 
 [https://github.com/hashicorp/nomad](https://github.com/hashicorp/nomad)
 
-## Codec## 
+## Codec
 
 A High Performance and Feature-Rich Idiomatic encode/decode and rpc library
 
 [https://github.com/ugorji/go/codec](undefined)
 
-## mapstructure## 
+## mapstructure
 
 将Map转换成Go原生的数据结构
 
 [https://github.com/mitchellh/mapstructure](https://github.com/mitchellh/mapstructure)
 
-## Hoverfly## 
+## Hoverfly
 
 Hoverfly是一个轻量的API服务模拟工具（有时候也被称作[服务虚拟化工具](http://www.infoq.com/cn/news/2013/05/Service-Virtualization)）。 使用Hoverfly，您可以创建应用程序依赖的API的真实模拟。
 
@@ -116,7 +114,7 @@ https://github.com/SpectoLabs/hoverfly
 
 Hoverfly由[SpectoLabs](http://specto.io/)开发和维护。
 
-## Centrifugo## 
+## Centrifugo
 
 Centrifugo 是一个用 Golang 实现的基于 [Websocket](https://www.oschina.net/p/websocket) 或者 [SockJS](https://www.oschina.net/p/sockjs) 的实时通信平台。
 
